@@ -37,7 +37,7 @@ This part is built on this [Document for Android Studio](https://developer.andro
   
 - Start the app and tap on the (only) button to switch on. When re-entering the app, the button will show the status (on/off) of the alarms.
   
-- The phone will show a notification and play a sound at pre-defined times. Current version does not support modification of the schedule. You can modify the code and build your own.
+- The phone will show a notification and play a sound (white noise) at pre-defined times. Current version does not support modification of the schedule. You can download the code and build your own, so you can have your own sound and schedule.
   
 - You may disable banners, vibrations, and notifications in your phone's settings, if they are available.
   
@@ -51,4 +51,5 @@ This part is built on this [Document for Android Studio](https://developer.andro
 - I only have one phone so I cannot ensure this app runs fine on other phones.
   
 - It seems difficult to ensure the alarm is played on time when a higher level of API is used. Using a lower level does not have this problem; however, it prevents publishing on the play store. Current version probably will raise a security warning during installation due to unknown developer.
+
   
